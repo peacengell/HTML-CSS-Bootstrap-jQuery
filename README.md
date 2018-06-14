@@ -1,2 +1,6 @@
 # HTML-CSS-Bootstrap-jQuery
 Udemy_HTML_CSS_Bootstrap_jQuery_website
+
+### This repo will hold the websites that I going to build throught this tutorials.
+  https://www.udemy.com/draft/1510752/learn/v4/content
+  
