@@ -3,3 +3,8 @@ h1 {
     font-size: 50px;
     font-family: 'Barrio', cursive;
 }
+
+.small-img {
+    width: 10%;
+    height: 10%;
+}
