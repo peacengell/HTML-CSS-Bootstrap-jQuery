@@ -16,3 +16,13 @@ h1 {
 .small-img:hover {
     border: 5px solid #4422ff;
 }
+
+#headingTwo {
+    background-color: #1103da9f;
+    padding: 20px;
+    font-size: 30px;
+    color: green;
+    text-decoration: bisque;
+    text-transform: uppercase;
+    font-family: 'Barrio', cursive;
+}
