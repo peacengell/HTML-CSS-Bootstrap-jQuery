@@ -4,6 +4,12 @@ h1 {
     font-family: 'Barrio', cursive;
 }
 
+.icons {
+    background-color: #3d97ff;
+    margin-top: 50px;
+    border-radius: 0px !important;
+}
+
 .small-img {
     width: 10%;
     height: 10%;
