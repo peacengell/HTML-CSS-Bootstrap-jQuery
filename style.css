@@ -81,6 +81,17 @@ h2 {
     color: #ffffff !important;
 }
 
+.services-content {
+    padding: 100px 0 !important;
+}
+
+#services {
+    background-image: url("./images/norway.jpeg");
+    margin-top: -30px;
+    background-attachment: fixed;
+    height: 500px;
+}
+
 
 /* RESPONSIVE CSS
   -------------------------------------------------- */
