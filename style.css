@@ -32,3 +32,12 @@ h2 {
 .tableTron {
     margin-top: 50px;
 }
+
+.my-panels {
+    padding: 60px
+}
+
+.my-image {
+    height: 350px;
+    padding-top: 35px;
+}
