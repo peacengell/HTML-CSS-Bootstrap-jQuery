@@ -17,3 +17,14 @@
     margin-bottom: 30px;
     font-size: 16px;
 }
+
+h1,
+h2 {
+    font-family: 'Barrio', cursive;
+    font-size: 50px;
+    color: #0073f9 !important;
+}
+
+.contact-form-header {
+    font-size: 50px;
+}
