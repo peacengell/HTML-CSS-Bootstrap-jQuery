@@ -31,6 +31,9 @@ h2 {
 
 .tableTron {
     margin-top: 50px;
+    background: linear-gradient(to right, #000, #333, #666);
+    color: #999;
+    border-radius: 0px !important;
 }
 
 .my-panels {
