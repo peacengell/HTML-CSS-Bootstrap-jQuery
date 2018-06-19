@@ -1,5 +1,5 @@
 $(document).ready(function() {
 
-    $("button").addClass("animated flip");
+    $("button").addClass("animated bounce");
 
 });
