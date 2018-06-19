@@ -1,3 +1,5 @@
 $(document).ready(function() {
-    alert("Hello World!");
+
+    $("button").addClass("animated flip");
+
 });
