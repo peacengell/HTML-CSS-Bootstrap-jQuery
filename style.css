@@ -95,6 +95,10 @@ h2 {
     height: 500px;
 }
 
+.bs_modal {
+    padding-bottom: 10px;
+}
+
 
 /* RESPONSIVE CSS
   -------------------------------------------------- */
