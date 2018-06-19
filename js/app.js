@@ -1,9 +1,5 @@
 $(document).ready(function() {
 
-    $("button").addClass("animated");
-    $(".btn-default").addClass("tada");
-    $("#target1").addClass("btn-primary");
-    $("button").removeClass("btn-default");
-    $("button").removeClass("btn-default");
-    $("#target1").css("color", "red");
+    $("#target1").prop("disabled", true);
+    $("h2").html("<h2><i>This is Awesome Column</i></h2>");
 });
