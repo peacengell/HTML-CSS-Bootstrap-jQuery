@@ -1,7 +1,6 @@
 $(document).ready(function() {
 
-    $("button").addClass("animated bounce");
-    $(".jumbotron").addClass("animated shake");
-    $("#target1").addClass("animated fadeIn");
-
+    $("button").addClass("animated");
+    $(".btn-default").addClass("tada");
+    $("#target1").addClass("btn-primary");
 });
