@@ -1,6 +1,7 @@
 $(document).ready(function() {
 
-    $("#target3").appendTo(".right");
-    $("#target3").remove();
+    $(".left").clone().appendTo(".right");
+
+    $(".row").parent().css("background-color", "green");
 
 });
