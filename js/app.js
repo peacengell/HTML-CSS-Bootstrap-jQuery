@@ -6,4 +6,5 @@ $(document).ready(function() {
     $(".container").children().css("background-color", "#f6f6f6");
     $(".target:odd").addClass("animated flip")
     $(".target:even").addClass("animated bounce")
+    $(".goodbye").addClass("animated hinge")
 });
